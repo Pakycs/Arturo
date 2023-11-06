@@ -1,0 +1,19 @@
+
+/********MENU*********/
+
+logo-container {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	flex-direction: column;
+}
+
+#logo-container {
+	flex: 0 1 33.333%
+}
+
+
+
+/********MENU*********/
+
+
